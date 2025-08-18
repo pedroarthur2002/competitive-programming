@@ -1,0 +1,4 @@
+# Ignorar compilados e temporários
+*.o
+*.out
+*.exe
